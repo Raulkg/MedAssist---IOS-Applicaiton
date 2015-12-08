@@ -1,8 +1,9 @@
 {
   "images" : [
     {
-      "idiom" : "iphone",
       "size" : "29x29",
+      "idiom" : "iphone",
+      "filename" : "Rod of Asclepius Filled-60.png",
       "scale" : "2x"
     },
     {
@@ -11,8 +12,9 @@
       "scale" : "3x"
     },
     {
-      "idiom" : "iphone",
       "size" : "40x40",
+      "idiom" : "iphone",
+      "filename" : "Rod of Asclepius Filled-80(1).png",
       "scale" : "2x"
     },
     {
