@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<gpx version="1.1" 
+    creator="Acquamacs"
+    author="Kusum Rudrayya"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://www.topografix.com/GPX/1/1"
+    xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    
+    <wpt lat="43.0416 " lon="-76.1359">
+        <name>Syracuse University</name>
+    </wpt>
+</gpx>
